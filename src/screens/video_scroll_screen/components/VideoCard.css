@@ -1,0 +1,20 @@
+.card {
+  height: 100vh;
+  width: auto;
+  scroll-snap-align: center;
+  z-index: 0;
+}
+
+.icons-column {
+  position: relative;
+  width: max-content;
+  height: max-content;
+  left: 91vw;
+  top: 60vh;
+}
+
+.icon {
+  color: white;
+  margin: 15px 40px;
+  cursor: pointer;
+}
